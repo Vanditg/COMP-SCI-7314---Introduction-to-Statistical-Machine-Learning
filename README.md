@@ -2,7 +2,7 @@
 This repository contains assignment solutions for one of my postgraduate subjects of [COMP SCI 7314 - Introduction to Statistical Machine Learning](https://www.adelaide.edu.au/course-outlines/109780/). The programming language is [Python](https://www.python.org/).  
 
 ## Easy Navigation for Assignment.  
-[Assignment - 1](https://github.com/Vanditg/COMP-SCI-7314---Introduction-to-Statistical-Machine-Learning/tree/master/Assignment%20-%201/Problem) <<<--->>> [Solution](https://github.com/Vanditg/COMP-SCI-7314---Introduction-to-Statistical-Machine-Learning/tree/master/Assignment%20-%201/Code)  
+[Assignment - 1](https://github.com/Vanditg/COMP-SCI-7314---Introduction-to-Statistical-Machine-Learning/tree/master/Assignment%20-%201/Problem) <<<--->>> [Solution](https://github.com/Vanditg/COMP-SCI-7314---Introduction-to-Statistical-Machine-Learning/tree/master/Assignment%20-%201/Code) <<<--->>> [Feedback](https://github.com/Vanditg/COMP-SCI-7314---Introduction-to-Statistical-Machine-Learning/tree/master/Assignment%20-%201/Feedback) -->> Marks: 85/100  
 
 ## Easy Navigation for Assignment Data.  
 [Assignment - 1 - Data](https://github.com/Vanditg/COMP-SCI-7314---Introduction-to-Statistical-Machine-Learning/tree/master/Assignment%20-%201/Data)  
