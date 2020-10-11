@@ -3,7 +3,7 @@ This repository contains assignment solutions for one of my postgraduate subject
 
 ## Easy Navigation for Assignment.  
 [Assignment - 1](https://github.com/Vanditg/COMP-SCI-7314---Introduction-to-Statistical-Machine-Learning/tree/master/Assignment%20-%201/Problem) <<<--->>> [Solution](https://github.com/Vanditg/COMP-SCI-7314---Introduction-to-Statistical-Machine-Learning/tree/master/Assignment%20-%201/Code) <<<--->>> [Feedback](https://github.com/Vanditg/COMP-SCI-7314---Introduction-to-Statistical-Machine-Learning/tree/master/Assignment%20-%201/Feedback) -->> Marks: 85/100  
-[Assignment - 2](https://github.com/Vanditg/COMP-SCI-7314---Introduction-to-Statistical-Machine-Learning/tree/master/Assignment%20-%202/Problem)  
+[Assignment - 2](https://github.com/Vanditg/COMP-SCI-7314---Introduction-to-Statistical-Machine-Learning/tree/master/Assignment%20-%202/Problem) <<<--->>> [Solution](https://github.com/Vanditg/COMP-SCI-7314---Introduction-to-Statistical-Machine-Learning/tree/master/Assignment%20-%202/Code)  
 
 ## Easy Navigation for Assignment Data.  
 [Assignment - 1 - Data](https://github.com/Vanditg/COMP-SCI-7314---Introduction-to-Statistical-Machine-Learning/tree/master/Assignment%20-%201/Data)  
