@@ -20,3 +20,6 @@ This repository contains assignment solutions for one of my postgraduate subject
 [Assignment - 1 - Colab](https://colab.research.google.com/drive/1La93rkK5yTCS4k54PJ8XzhWl9VSw2hl5?usp=sharing)  
 [Assignment - 2 - Colab](https://colab.research.google.com/drive/1JR6UzXxQQTvAnMlhsKHNNoViBnWZ0KRL?usp=sharing)  
 [Assignment - 3 - Colab](https://colab.research.google.com/drive/1akGgLQ4VqSHSPbP318xmKgQqprmnKs9D?usp=sharing)  
+
+## Lecture Slides and Videos  
+Please send a request [Here](https://shorturl.at/hiBEH)  
